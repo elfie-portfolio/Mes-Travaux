@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projets - Elfie Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Elfie Portfolio</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="about.html">À propos</a></li>
+                <li><a href="projects.html">Projets</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="projects">
+        <h2>Mes Projets</h2>
+
+        <div class="project">
+            <h3>Daga CL</h3>
+            <p>Un portfolio interactif mettant en avant mes créations.</p>
+            <a href="https://elfieportfolio.my.canva.site/daga-cl-5fk" target="_blank">Voir le projet</a>
+        </div>
+
+        <div class="project">
+            <h3>Ville 39</h3>
+            <p>Exploration d’une ville fictive sur WordPress.</p>
+            <a href="https://ville39.wordpress.com/" target="_blank">Voir le projet</a>
+        </div>
+
+        <div class="project">
+            <h3>Daga DHJ97Y</h3>
+            <p>Un projet visuel et expérimental.</p>
+            <a href="https://elfieportfolio.my.canva.site/daga-dhj97y" target="_blank">Voir le projet</a>
+        </div>
+    </section>
+</body>
+</html>
